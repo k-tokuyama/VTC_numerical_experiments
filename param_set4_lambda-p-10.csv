@@ -1,0 +1,21 @@
+﻿ skipping time for ppp, skipping time for tcp, moving velocity of a user, intensity for ppp, parent intensity for tcp, daughter intensity for tcp, daighter variance for tcp, transmitting power for ppp (macro base stations), transmitting power for tcp (small base stations), path-loss exponent," curve type <<must be either of ""straight""/""circle""/""spiral"">>"
+20,1,0.02,1,10,5,0.1,1,0.001,4,straight
+20,2,0.02,1,10,5,0.1,1,0.001,4,straight
+20,3,0.02,1,10,5,0.1,1,0.001,4,straight
+20,4,0.02,1,10,5,0.1,1,0.001,4,straight
+20,5,0.02,1,10,5,0.1,1,0.001,4,straight
+20,6,0.02,1,10,5,0.1,1,0.001,4,straight
+20,7,0.02,1,10,5,0.1,1,0.001,4,straight
+20,8,0.02,1,10,5,0.1,1,0.001,4,straight
+20,9,0.02,1,10,5,0.1,1,0.001,4,straight
+20,10,0.02,1,10,5,0.1,1,0.001,4,straight
+20,11,0.02,1,10,5,0.1,1,0.001,4,straight
+20,12,0.02,1,10,5,0.1,1,0.001,4,straight
+20,13,0.02,1,10,5,0.1,1,0.001,4,straight
+20,14,0.02,1,10,5,0.1,1,0.001,4,straight
+20,15,0.02,1,10,5,0.1,1,0.001,4,straight
+20,16,0.02,1,10,5,0.1,1,0.001,4,straight
+20,17,0.02,1,10,5,0.1,1,0.001,4,straight
+20,18,0.02,1,10,5,0.1,1,0.001,4,straight
+20,19,0.02,1,10,5,0.1,1,0.001,4,straight
+20,20,0.02,1,10,5,0.1,1,0.001,4,straight
