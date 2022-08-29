@@ -8,17 +8,17 @@ Material.pdf:
   the brief discription to handle those python scripts codes \<Please check this material first\>.
 
 main1_calc-DR_approx.py,
-main1_calc-HOR_approx.py, 
-main2_Expt1andExpt2.py: 
-  the main scripts.
+<br>main1_calc-HOR_approx.py, 
+<br>main2_Expt1andExpt2.py: 
+<br>  the main scripts.
 
 param-set_lambda-5.csv,
-param-set_lambda-10.csv:
-  the input csv files; lambda-5/lambda-10 -> λp=5/λp=10.
+<br>param-set_lambda-10.csv:
+<br>  the input csv files; lambda-5/lambda-10 -> λp=5/λp=10.
   
 result_calc-DR-approx-MCP_param-set_lambda-10.csv,
-result_calc-HOR-approx-MCP_param-set_lambda-10.csv:
-  sample result CSV files of the main1 scripts.
+<br>result_calc-HOR-approx-MCP_param-set_lambda-10.csv:
+<br>  sample result CSV files of the main1 scripts.
   
 result_Expt1andExpt2_MCP_param-set_lambda-10.csv:
-  sample result CSV files of the main2 script.
+<br>  sample result CSV files of the main2 script.
