@@ -5,7 +5,7 @@ Here's the script for the numerical computation in our submitted paper to VTC 20
 <br><b>Repository File Descriptions.</b>
 
 Material.pdf:
-  the brief discription to handle those python scripts codes <Please check this material first>.
+  the brief discription to handle those python scripts codes \<Please check this material first\>.
 
 main1_calc-DR_approx.py,
 main1_calc-HOR_approx.py, 
