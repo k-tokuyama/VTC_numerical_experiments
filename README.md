@@ -10,15 +10,15 @@ Material.pdf:
 main1_calc-DR_approx.py,
 <br>main1_calc-HOR_approx.py, 
 <br>main2_Expt1andExpt2.py: 
-<br>  the main scripts.
+<br>    the main scripts.
 
 param-set_lambda-5.csv,
 <br>param-set_lambda-10.csv:
-<br>  the input csv files; lambda-5/lambda-10 -> λp=5/λp=10.
+<br>    the input csv files; lambda-5/lambda-10 -> λp=5/λp=10.
   
 result_calc-DR-approx-MCP_param-set_lambda-10.csv,
 <br>result_calc-HOR-approx-MCP_param-set_lambda-10.csv:
-<br>  sample result CSV files of the main1 scripts.
+<br>    sample result CSV files of the main1 scripts.
   
 result_Expt1andExpt2_MCP_param-set_lambda-10.csv:
-<br>  sample result CSV files of the main2 script.
+<br>    sample result CSV files of the main2 script.
