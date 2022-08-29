@@ -10,7 +10,8 @@ Material.pdf:
 main1_calc-DR_approx.py,
 <br>main1_calc-HOR_approx.py, 
 <br>main2_Expt1andExpt2.py: 
-<br>    the main scripts.
+<br>
+    the main scripts.
 
 param-set_lambda-5.csv,
 <br>param-set_lambda-10.csv:
